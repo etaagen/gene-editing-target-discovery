@@ -2,7 +2,7 @@
 title: "Regulatory Interpretation"
 ---
 
-## Regulatory interpretation (current)
+## Regulatory interpretation
 
 **Owner:** Regulatory Affairs Partner (RA)  
 **Last reviewed:** 2026-02-10  
