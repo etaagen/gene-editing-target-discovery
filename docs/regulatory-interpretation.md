@@ -30,5 +30,4 @@ This page captures the current interpretation that constrains target selection a
 ## Decision log
 
 This is the durable record of how this interpretation evolved over time:
-- Use the **History** view for this file to see who changed what, when, and why.
-- Direct link: 
+- Use the [**Commit History**](https://github.com/etaagen/gene-editing-target-discovery/commits/main/docs/regulatory-interpretation.md) view for this file to see who changed what, when, and why.
