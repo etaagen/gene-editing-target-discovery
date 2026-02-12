@@ -1,8 +1,8 @@
 ---
-title: "Home"
+title: "Gene Editing Target Discovery - Team Site"
 ---
 
-## Gene Editing Target Discovery - Team Site
+## About
 
 This site publishes lightweight, versioned written context that supports durable decisions across R&D.
 
