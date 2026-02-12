@@ -1,0 +1,24 @@
+<nav class="nav">
+  <div class="nav-section-title">Team Site</div>
+
+  <a class="nav-link{% if page.url contains '/index' or page.url == '/' %} active{% endif %}"
+     href="{{ '/' | relative_url }}">Home</a>
+
+  <a class="nav-link{% if page.url contains 'team-mission' %} active{% endif %}"
+     href="{{ '/team-mission' | relative_url }}">Team Mission</a>
+
+  <a class="nav-link{% if page.url contains 'roadmap' %} active{% endif %}"
+     href="{{ '/roadmap' | relative_url }}">Roadmap</a>
+
+  <a class="nav-link{% if page.url contains 'meeting-notes' %} active{% endif %}"
+     href="{{ '/meeting-notes' | relative_url }}">Meeting Notes</a>
+
+  <a class="nav-link{% if page.url contains 'regulatory-interpretation' %} active{% endif %}"
+     href="{{ '/regulatory-interpretation' | relative_url }}">Regulatory Interpretation</a>
+
+  <div class="nav-divider"></div>
+
+  <div class="nav-section-title">Quick links</div>
+  <a class="nav-link"
+     href="{{ site.github.repository_url }}">View repo</a>
+</nav>
