@@ -2,8 +2,6 @@
 title: "Gene Editing Target Discovery - Team Site"
 ---
 
-## About
-
 This site publishes lightweight, versioned written context that supports durable decisions across R&D.
 
 ### Quick links
