@@ -1,0 +1,39 @@
+---
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>{{ page.title }} - {{ site.title }}</title>
+
+    <!-- Load the theme's default CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
+
+    <!-- Load our sidebar layout CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/sidebar.css?v=' | append: site.github.build_revision | relative_url }}" />
+  </head>
+
+  <body>
+    <div class="layout">
+      <aside class="sidebar">
+        {% include sidebar.html %}
+      </aside>
+
+      <main class="content">
+        <header class="content-header">
+          <div class="site-title">{{ site.title }}</div>
+        </header>
+
+        <article class="page">
+          {{ content }}
+        </article>
+
+        <footer class="content-footer">
+          <small>Last updated: {{ site.time | date: "%Y-%m-%d" }}</small>
+        </footer>
+      </main>
+    </div>
+  </body>
+</html>
