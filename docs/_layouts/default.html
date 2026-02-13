@@ -1,4 +1,5 @@
 ---
+---
 
 <!doctype html>
 <html lang="en">
@@ -7,11 +8,10 @@
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>{{ page.title }} - {{ site.title }}</title>
 
-    <!-- Load the theme's default CSS -->
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
-
-    <!-- Load our sidebar layout CSS -->
-    <link rel="stylesheet" href="{{ '/assets/css/sidebar.css?v=' | append: site.github.build_revision | relative_url }}" />
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+    <!-- Sidebar CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/sidebar.css' | relative_url }}" />
   </head>
 
   <body>
@@ -21,10 +21,6 @@
       </aside>
 
       <main class="content">
-        <header class="content-header">
-          <div class="site-title">{{ site.title }}</div>
-        </header>
-
         <article class="page">
           {{ content }}
         </article>
