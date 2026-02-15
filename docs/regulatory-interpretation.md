@@ -1,13 +1,12 @@
 ---
-title: "Regulatory Interpretation"
+title: "IP Interpretation"
 ---
 
-## Regulatory interpretation
+## IP interpretation
 
-**Owner:** Regulatory Affairs Partner (RA)  
-**Last reviewed:** 2026-02-10  
+**Owner:** Intelectual Property Partner (IP)  
 **Applies to:** Gene Editing target categories used in discovery prioritization  
-**Decision log:**  This is the durable record of how this interpretation evolved over time - view [commit history](https://github.com/etaagen/gene-editing-target-discovery/commits/main/docs/regulatory-interpretation.md) to see who changed what, when, and why.
+**Decision log:**  This is the durable record of how this interpretation evolved over time - view [commit history](https://github.com/etaagen/gene-editing-target-discovery/commits/main/docs/IP-interpretation.md) to see who changed what, when, and why.
 
 --- 
 
