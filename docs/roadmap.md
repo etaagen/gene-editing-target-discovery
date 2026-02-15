@@ -15,5 +15,5 @@ title: "Roadmap"
 - Prepare decision context for scalable enterprise learning and AI readiness
 
 ## Dependencies
-- Regulatory interpretation updates (see: [Regulatory Interpretation](regulatory-interpretation))
+- Regulatory interpretation updates (see: [IP Interpretation](ip-interpretation))
 - IP review timelines and filing strategy alignment
