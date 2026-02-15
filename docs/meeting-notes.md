@@ -18,4 +18,4 @@ This page is intentionally lightweight. In a real rollout, each meeting note wou
 - Action items
 
 **Decisions and follow-ups**
-- Link any relevant updates to: [Regulatory Interpretation](regulatory-interpretation)
+- Link any relevant updates to: [IP Interpretation](ip-interpretation)
