@@ -6,7 +6,7 @@ title: "IP Interpretation"
 
 **Owner:** Intelectual Property Partner (IP)  
 **Applies to:** Gene Editing target categories used in discovery prioritization  
-**Decision log:**  This is the durable record of how this interpretation evolved over time - view [commit history](https://github.com/etaagen/gene-editing-target-discovery/commits/main/docs/ip-interpretation.md) to see who changed what, when, and why.
+[History log](https://github.com/etaagen/gene-editing-target-discovery/commits/main/docs/ip-interpretation.md):  This is the durable record of how this interpretation evolved over time - view to see who changed what, when, and why.
 
 --- 
 
