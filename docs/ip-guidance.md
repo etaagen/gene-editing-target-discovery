@@ -25,6 +25,11 @@ This page captures the current guidance that constrains target selection and inf
 - Potential overlap with our vector optimization program
 - Action: initiate FTO review and assess design-around options
 
+#### Patent Expiration - Transformation Method
+- Core claims on high-efficiency plant transformation expiring (Q4 2026)
+- Opens opportunity for in-house use without licensing fees
+- Recommendation: evaluate pipeline acceleration post-expiry
+
 
 ### Implications for target selection and IP scope
 - Targets in Category B require earlier regulatory consultation and tighter documentation.
