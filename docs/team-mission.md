@@ -12,7 +12,7 @@ The Gene Editing Target Discovery team identifies, prioritizes, and de-risks edi
 - Decision documentation for target scope and constraints
 
 ## Who we partner with
-- Regulatory: interpretation and constraints that impact filing and study design
+- Regulatory: guidance and constraints that impact filing and study design
 - IP: patentability, prior art review, and scope implications
 - Program leadership: portfolio tradeoffs and capital allocation
 

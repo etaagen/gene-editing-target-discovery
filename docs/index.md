@@ -9,7 +9,7 @@ This site publishes lightweight, versioned written context that supports durable
 - [Team Mission](team-mission)
 - [Roadmap](roadmap)
 - [Meeting Notes](meeting-notes)
-- [IP Interpretation](ip-interpretation)
+- [IP Guidance](ip-guidance)
 
 ### How to use this site
 - Read the published pages for the current, approved view.

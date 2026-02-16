@@ -6,7 +6,7 @@ title: "Roadmap"
 
 ### Next 6-12 months
 - Establish target nomination rubric for top 3 indications
-- Align regulatory interpretation updates to target categories
+- Align regulatory guidance updates to target categories
 - Publish quarterly decision updates to the broader R&D org
 
 ### Next 1-3 years
@@ -15,5 +15,5 @@ title: "Roadmap"
 - Prepare decision context for scalable enterprise learning and AI readiness
 
 ## Dependencies
-- Regulatory interpretation updates (see: [IP Interpretation](ip-interpretation))
+- Regulatory guidance updates (see: [IP Guidance](ip-guidance))
 - IP review timelines and filing strategy alignment
