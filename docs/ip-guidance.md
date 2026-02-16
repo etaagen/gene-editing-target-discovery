@@ -35,6 +35,11 @@ This page captures the current guidance that constrains target selection and inf
 - Risk of blocking claims in hematopoietic applications
 - Identified potential whitespace in inducible promoter variants
 
+#### Method-of-Use Patent Risk - Cell Therapy Manufacturing
+- Method claims on cytokine cocktail ratios and perfusion schedule
+- Our current SOP overlaps in 2 of 4 key parameters
+- Next step: modify expansion timeline or validate alternative cytokine mix
+
 
 ### Implications for target selection and IP scope
 - Targets in Category B require earlier regulatory consultation and tighter documentation.
