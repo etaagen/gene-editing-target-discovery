@@ -30,6 +30,11 @@ This page captures the current guidance that constrains target selection and inf
 - Opens opportunity for in-house use without licensing fees
 - Recommendation: evaluate pipeline acceleration post-expiry
 
+#### Synthetic Promoter Platform - Competitive Threat
+- Broad claims on machine-designed minimal promoters
+- Risk of blocking claims in hematopoietic applications
+- Identified potential whitespace in inducible promoter variants
+
 
 ### Implications for target selection and IP scope
 - Targets in Category B require earlier regulatory consultation and tighter documentation.
