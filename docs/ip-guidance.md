@@ -18,6 +18,13 @@ This page captures the current guidance that constrains target selection and inf
 
 ### Current guidance (today)
 
+### Competitive Patent Update – Promoter Usage Risk
+
+- We’ve been notified that a competitor has been granted a patent covering a promoter sequence currently used in our vector-based cloning workflows.  
+- This may introduce IP exposure for programs utilizing this construct in Gene Family D targets.  
+- Regulatory and Legal teams are reviewing scope, licensing implications, and potential design-around strategies.  
+- Until guidance is finalized, new experimental designs using this promoter should be paused or routed for approval.   
+
 - Target Category A is eligible for the current filing pathway with standard documentation.
 - Target Category B requires additional evidence before filing decisions.
 - Target Category C should be treated as exploratory until updated guidance is confirmed.
